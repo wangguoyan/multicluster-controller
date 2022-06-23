@@ -1,1 +1,1 @@
-# multicluster-controller-k8s
+# multicluster-controller
